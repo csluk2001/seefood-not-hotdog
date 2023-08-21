@@ -1,0 +1,7 @@
+path: ./train_data    # dataset root dir
+train: ./train    # train images (relative to 'path')
+val: ./val # train images (relative to 'path')
+
+# class
+names:
+  0: hotdog
